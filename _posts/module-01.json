@@ -3,11 +3,11 @@
   "Language": "English",
   "Files": [
     {
-      "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/PartsUnlimited/tree/prod/_posts/2018-01-01-200.2x-IaC-AZ-400T05AppInfra_02.md",
+      "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/PartsUnlimited/prod/_posts/2018-01-01-200.2x-IaC-AZ-400T05AppInfra_02.md",
       "Order": 1
     },
     {
-      "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/PartsUnlimited/tree/prod/_posts/2018-01-01-200.2x-IaC-AZ-400T05AppInfra_03.md",
+      "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/PartsUnlimited/prod/_posts/2018-01-01-200.2x-IaC-AZ-400T05AppInfra_03.md",
       "Order": 2
     }
   ]
